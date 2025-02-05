@@ -1,15 +1,21 @@
-# CS Assignment 1  #
-This repository contains a Python program demonstrating my decorator, a Conda environment setup, and an image file that you might enjoy.  
+# CS Assignment 1 
+Carlito Davis
+This repository contains Python programs demonstrating decorators, a Conda environment setup, and an image file that you might enjoy.  
 
-## How to Set Up the Environment  ##
+## Setting Up the Miniconda Environment ##
 To install the required environment, run:  
 <code> conda env create -f requirements.yaml </code>  
 
-### Running the Program  ###
+### Running the python files with virtual environment ###
 Activate the environment:  
 <code> conda activate cs_assign1 </code>  
-Run the program:  
-<code> python decorators.py </code>  
 
-### Image of a puppy  ###
-![Cute Puppy](![alt text](image.png))  
+Run the first program:  
+<code> decorators.py </code>  
+
+Run the second program (new in `branch_1`):  
+<code> addedScript.py </code>  
+
+### A Cute Puppy Picture ###
+![Cute Puppy](image.png)
+
