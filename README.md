@@ -9,7 +9,7 @@ To install the required environment, run:
 Activate the environment:  
 <code> conda activate cs_assign1 </code>  
 Run the program:  
-<code> python decorators.py </code>  
+<code> decorators.py </code>  
 
 ### Image of a puppy  ###
-![Cute Puppy](![alt text](image.png))  
+[alt text](image.png) 
