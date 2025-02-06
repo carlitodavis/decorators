@@ -12,4 +12,4 @@ Run the program:
 <code> decorators.py </code>  
 
 ### Image of a puppy  ###
-[alt text](image.png) 
+![Cute Puppy](image.png) 
